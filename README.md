@@ -111,7 +111,7 @@ For detailed commands and explanations, refer to the [reference-commands.md](ref
 ## 👏 Acknowledgments
 
 - Thanks to the Docker community for their excellent documentation
-- Special appreciation to Poridhi for providing comprehensive learning opportunities
+- Special appreciation to [Poridhi](https://poridhi.io) for providing comprehensive learning opportunities
 
 ---
 
